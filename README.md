@@ -42,7 +42,7 @@ This project was created to enhance my understanding of the **Fetch API** in Jav
 ---
 ## 🔗 **Try it out!**  
 You can try the Currency Converter here:  
-👉 [Try it out: Currency Converter]()
+👉 [Try it out: Currency Converter](https://preethesh26.github.io/Currency_Convertor_API/)
 
 ---
 
