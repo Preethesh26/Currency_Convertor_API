@@ -40,10 +40,9 @@ This project was created to enhance my understanding of the **Fetch API** in Jav
 
 
 ---
-
 ## 🔗 **Try it out!**  
 You can try the Currency Converter here:  
-👉 [Try it out: Currency Converter](https://preethesh26.github.io/Tic_Tac_Toe-Game/)
+👉 [Try it out: Currency Converter]()
 
 ---
 
@@ -52,8 +51,8 @@ You can try the Currency Converter here:
 - 💼 **GitHub:** [Preethesh26](https://github.com/Preethesh26)  
 - 👔 **LinkedIn:** [Preethesh26](https://www.linkedin.com/in/Preethesh26/)
 
----
 
+---
 💌 **Got feedback?**  
 Let’s chat! Feel free to reach out if you have suggestions or questions. 😊
 
