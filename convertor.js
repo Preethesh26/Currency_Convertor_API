@@ -48,7 +48,6 @@ const updateExchangeRate = async () => {
   msg.innerText = `${amtVal} ${fromCurr.value} = ${finalAmount} ${toCurr.value}`;
 };
 
-
 btn.addEventListener("click", (evt) => {
   evt.preventDefault();
   updateExchangeRate();
@@ -56,4 +55,13 @@ btn.addEventListener("click", (evt) => {
 
 window.addEventListener("load", () => {
   updateExchangeRate();
+});
+
+const amountInput = document.querySelector(".amount input");
+
+amountInput.addEventListener("input", (e) => {
+  const value = e.target.value;
+  if (isNaN(value) || value <= 0) {
+    e.target.value = "";
+  }
 });

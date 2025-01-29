@@ -90,9 +90,9 @@ form input {
   cursor: pointer;
 }
 
-.swap-icon {
+i{
   font-size: 1.5rem;
-  color: white;
+  color: rgb(9, 1, 1);
   cursor: pointer;
 }
 
@@ -120,3 +120,4 @@ p {
   unicode-bidi: isolate;
   color: azure;
 }
+
