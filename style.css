@@ -13,6 +13,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
+  background-attachment: fixed; /* Ensure the background doesn't scroll */
 }
 
 .container {
@@ -90,7 +91,7 @@ form input {
   cursor: pointer;
 }
 
-i{
+i {
   font-size: 1.5rem;
   color: rgb(9, 1, 1);
   cursor: pointer;
@@ -120,4 +121,3 @@ p {
   unicode-bidi: isolate;
   color: azure;
 }
-
